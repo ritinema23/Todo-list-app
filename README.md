@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## ABOUT THIS PROJECT
+This project is made on react framework. This is a todo-list app where we can add out todos, mark them as completed
+and delete them . It uses JSON api to extract the todos. this app uses axios package to work with the api. 
+
 ## Available Scripts
 
 In the project directory, you can run:
